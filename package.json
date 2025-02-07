@@ -1,0 +1,27 @@
+{
+  "name": "letsruv",
+  "version": "1.0.0",
+  "description": "lets system for ruvchain",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruvcoindev/letsruv.git"
+  },
+  "keywords": [
+    "ruvchain",
+    "RUV",
+    "lets",
+    "system",
+    "blockhain"
+  ],
+  "author": "ruvcoindev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruvcoindev/letsruv/issues"
+  },
+  "homepage": "https://github.com/ruvcoindev/letsruv#readme"
+}
